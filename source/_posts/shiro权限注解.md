@@ -2,11 +2,12 @@
 title: shiro权限注解
 categories:
   - - 编程生涯
+    - shiro
 tags:
   - - shiro
     - 注解
 toc: false
-date: 2020-12-07 19:13:13
+date: 2020-12-07 19:34:09
 ---
 
 Shiro 提供了相应的注解用于权限控制，如果使用这些注解就需要使用AOP 的功能来进行判断，如Spring AOP；Shiro 提供了Spring AOP 集成用于权限注解的解析和验证。
