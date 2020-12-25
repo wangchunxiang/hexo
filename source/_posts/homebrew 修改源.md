@@ -1,6 +1,8 @@
 ---
 title: homebrew 修改源
-categories: 编程生涯
+categories:
+  - - 编程生涯
+    - homebrew
 tags: 
 - homebrew
 - 国内镜像站
